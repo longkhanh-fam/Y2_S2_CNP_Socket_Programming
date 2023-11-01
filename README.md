@@ -11,3 +11,5 @@
     +           g++ -o client.exe client.cpp -lws2_32 -lgdi32 -lgdiplus           // Compile Client
     +           .\server.exe                                                      // Run Server
     +           .\client.exe                                                      // Run Client
+- Demo:
+  [Video](https://youtu.be/I3tQlatmGN0?si=MpEtJfgpe5vUzz13)
